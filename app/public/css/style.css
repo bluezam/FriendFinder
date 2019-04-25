@@ -5,11 +5,11 @@
 	display: flex;
 	min-height: 100vh;
 	flex-direction: column;
- }
+}
 
- header {
+header {
  	height: 100px;
- }
+}
 
  header > nav {
  	height: 100%;
@@ -23,7 +23,7 @@
  	font-weight: bold;
  }
 
-  main h2 {
+main h2 {
  	font-weight: 300;
  }
 
